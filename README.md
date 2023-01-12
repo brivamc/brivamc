@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brivamc
+- 👋 Hi, I’m Bree
 - 👀 I’m interested in designing and developing beautiful yet functional websites
 - 🌱 I’m currently learning TypeScript, Go, & GraphQL
 - 📫 How to reach me: bree.mccausland@gmail.com or [Linkedin](https://www.linkedin.com/in/brivamc/)
