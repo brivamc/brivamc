@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brivamc
 - 👀 I’m interested in designing and developing beautiful yet functional websites
 - 🌱 I’m currently learning TypeScript, Go, & GraphQL
-- 📫 How to reach me: brivamc@udel.edu or [Linkedin](https://www.linkedin.com/in/brivamc/)
+- 📫 How to reach me: bree.mccausland@gmail.com or [Linkedin](https://www.linkedin.com/in/brivamc/)
 
 **Familiar & Proficient Technologies:**  
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /></code>
