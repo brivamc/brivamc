@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bree
-- 👀 I’m interested in designing and developing beautiful yet functional websites
-- 🌱 I’m currently learning TypeScript, Go, & GraphQL
+- 👀 I’m interested in designing and developing beautiful yet functional website applications
+- 🌱 I’m currently learning TypeScript & Ruby on Rails
 - 📫 How to reach me: bree.mccausland@gmail.com or [Linkedin](https://www.linkedin.com/in/brivamc/)
 
 **Familiar & Proficient Technologies:**  
